@@ -1,5 +1,3 @@
-import time
-import sys
 import os
 
 def wazuh():
